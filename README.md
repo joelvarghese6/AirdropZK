@@ -36,13 +36,13 @@ AirdropZK requires certain environment variables to be set for proper configurat
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/joelvarghese6/AirdropZK.git
     ```
 
 2. Install dependencies:
 
     ```bash
-    cd yourproject
+    cd AirdropZK
     npm install
     ```
 
